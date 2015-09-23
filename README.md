@@ -19,7 +19,7 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 * Create source repository for this exercise.
 * Provide full source for all automation necessary to complete this exercise.
- * Include README for the repository which details any important details in support of the exercise. 
+** Include README for the repository which details any important details in support of the exercise. 
 * All best practices for source control should be utilized.
 
 ### Create application orchestration deployment process for the provided Go application ###
@@ -35,12 +35,12 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 * The AWS resources must be deployed fully via an automated process.
 * The application must scale when placed under load. 
-  * The process to decide how and when to scale is also at your discretion.
+** The process to decide how and when to scale is also at your discretion.
 
 ### Be prepared to provide evidence of capabilities, such as auto-scaling ###
 
 * Supply us with a functional FQDN/endpoint for the application.
-  * This application should be accessible via the public internet.
+** This application should be accessible via the public internet.
 * Supply us with the github (or other) source repository URL for review.
 * Provide example or details as to how we can evaluate the success of your deployment.
 
