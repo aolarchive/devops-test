@@ -19,9 +19,11 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 * Create source repository for this exercise.
 * Provide full source for all automation necessary to complete this exercise.
-    * Include the following within a README to the project:
-        * Any important details in support of the exercise. 
-        * Any URLs or sources of information used to create your example.
+* Create a README for the source project, which includes some of the following information:
+    * A summary of the exercise as executed.
+    * Any important details (development, deployment, testing, etc.) in support of the exercise. 
+    * URLs or sources of information used to create your work.
+    * Any other information you think is pertinent.
 * All best practices for source control should be utilized.
 
 ### Create application orchestration deployment process for the provided Go application ###
