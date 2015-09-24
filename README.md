@@ -47,4 +47,3 @@ The technologies, tools, processes and resources for this exercise are totally a
     * This application should be accessible via the public internet.
 * Supply us with the github (or other) source repository URL for review.
 * Provide example or details as to how we can evaluate the success of your deployment.
-
