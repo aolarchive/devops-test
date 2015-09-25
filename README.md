@@ -11,7 +11,7 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 ## Required Steps ##
 
-### Create a Github (or other) source control account ##
+### Create a GitHub (or other) source control account ##
 
 * Create a source project repository for this exercise.
 * Create a README for the source project, which includes some of the following information:
@@ -32,11 +32,12 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 ## Optional Steps ##
 
-### Create an AWS free tier account ###
+### Create an AWS (or other Public Cloud) free tier account ###
 
-* You may use ECS, EC2, or any other AWS free tier service for this exercise.
-* Include details in the source projects README, including information in how your application was deployed.
-    * What services are used? How are they created/deployed?
+* You may use any cloud resource/service offering by the Public Cloud vendor selected.
+* Include details in the source projects README about the services selected, including the following information:
+    * What services/resources are being used?
+    * Why were those services/resources used?
 
 ### Deploy the provided Go application to the Public Cloud ###
 
@@ -50,4 +51,4 @@ The technologies, tools, processes and resources for this exercise are totally a
 
 ## Completing Task ##
 
-* Provide a link to your Github source project repository.
+* Provide a link to your source project repository.
